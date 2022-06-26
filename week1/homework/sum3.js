@@ -1,4 +1,5 @@
 const TYPE_NUMBER = "number";
+
 export function sum3(a, b, c) {
   if (
     (a || a === 0) &&
